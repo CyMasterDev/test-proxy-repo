@@ -11,7 +11,6 @@ const indexURL = new URL("index.html", buildURL);
  */
 const files = [
     "options.html",
-    "contributers.html",
     "privacy.html",
     // for static file hosts
     "404.html",
