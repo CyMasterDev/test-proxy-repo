@@ -130,14 +130,6 @@ body[data-theme="echo"] .nav {
   box-shadow: 0 5px 200px var(--primary);
 }
 
-body[data-theme="nebelung"] {
-  --background: #dabc9a;
-  --primary: #190f05;
-  --text: #190f05;
-  --text-inverse: white;
-  --font: "Roboto";
-}
-
 body[data-theme="halloween"] {
   --background: #13171f;
   --primary: #e48500;
