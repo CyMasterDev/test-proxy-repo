@@ -1,10 +1,10 @@
 {
-  "name": "galaxy",
+  "name": "midnight",
   "version": "1.0.0",
   "description": "A stunning web proxy with support for many popular sites.",
-  "repository": "https://github.com/cognetwork-dev/Galaxy.git",
+  "repository": "https://github.com/Hyperpixel-Foundation/Midnight.git",
   "type": "module",
-  "author": "Nebelung",
+  "author": "Hyperpixel Foundation",
   "license": "AGPL-3.0",
   "scripts": {
     "start": "node start.mjs",
