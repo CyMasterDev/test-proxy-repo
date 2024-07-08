@@ -7,15 +7,15 @@ function Privacy() {
         <div class="privacy">
             <h2>Privacy Policy</h2>
             <p>
-            Your privacy is important to us. It is Cog Network&#39; policy to
+            Your privacy is important to us. It is the Hyperpixel Foundation&#39; policy to
             respect your privacy and comply with any applicable law and regulation
             regarding any personal information we may collect about you, including
             across our website, <a href={window.location.origin}>{window.location.origin}</a>,
             and other sites we own and operate.
             </p>
             <p>
-            This policy is effective as of 8 June 2022 and was last updated on 8 June
-            2022.
+            This policy is effective as of 28 May 2024 and was last updated on 8 July
+            2024.
             </p>
             <h3>Information We Collect</h3>
             <p>
@@ -52,8 +52,7 @@ function Privacy() {
             </ul>
             <h3>Children's Privacy</h3>
             <p>
-            We do not aim any of our products or services directly at children under
-            the age of 13, and we do not knowingly collect personal information about
+            We do not knowingly collect personal information about
             children under 13.
             </p>
             <h3>Use of Cookies</h3>
@@ -90,8 +89,8 @@ function Privacy() {
             using the following details:
             </p>
             <p>
-            Nebelung<br/>
-            <a href="mailto:nebelung@mailfence.com">nebelung@mailfence.com</a>
+            Hyperpixel Team<br/>
+            <a href="mailto:hyperpixel.team@outlook.com">hyperpixel.team@outlook.com</a>
             </p>
         </div>
     </>
