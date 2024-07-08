@@ -15,7 +15,7 @@ function App() {
     <>
       <Head />
       <div class="home">
-        <div class="title">Galaxy</div>
+        <div class="title">Midnight</div>
         <div class="omnibox">
           <div class="searchIcon">
             <IoSearch fill="var(--text-inverse)" />
@@ -23,7 +23,6 @@ function App() {
           <input onkeyup={searchType} autofocus class="search" />
         </div>
       </div>
-      {/*👋 - Nebelung*/}
     </>
   );
 }
