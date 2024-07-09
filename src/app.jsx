@@ -20,7 +20,7 @@ function App() {
           <div class="searchIcon">
             <IoSearch fill="var(--text-inverse)" />
           </div>
-          <input onkeyup={searchType} autofocus class="search" />
+          <input onkeyup={searchType} placeholder="Search the web freely..." autofocus class="search" />
         </div>
       </div>
     </>
