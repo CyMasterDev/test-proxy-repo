@@ -13,13 +13,10 @@ function Nav() {
   return (
     <>
       <div class="nav">
-        <A href="/" class="logo">
-            <Logo />
-        </A>
         <div class="navItems">
-            <a href="/" class="navItem">
+            <A href="/" class="navItem">
                 <AiFillHome fill="var(--text-inverse)" />
-            </a>
+            </A>
             <a href="https://github.com/cognetwork-dev/Galaxy" class="navItem">
                 <AiOutlineGithub fill="var(--text-inverse)" />
             </a>
