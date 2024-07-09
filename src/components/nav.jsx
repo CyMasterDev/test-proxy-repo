@@ -17,7 +17,7 @@ function Nav() {
             <Logo />
         </A>
         <div class="navItems">
-            <a href="/">
+            <a href="/" class="navItem">
                 <AiFillHome fill="var(--text-inverse)" />
             </a>
             <a href="https://github.com/cognetwork-dev/Galaxy" class="navItem">
