@@ -3,6 +3,7 @@ import { A } from "@solidjs/router";
 import { IoOptions } from 'solid-icons/io';
 import { IoGameController } from 'solid-icons/io';
 import { AiOutlineGithub } from 'solid-icons/ai';
+import { AiFillHome } from 'solid-icons/ai'
 
 function Nav() {
   function gamesGo() {
@@ -16,6 +17,9 @@ function Nav() {
             <Logo />
         </A>
         <div class="navItems">
+            <a href="/">
+                <AiFillHome fill="var(--text-inverse)" />
+            </a>
             <a href="https://github.com/cognetwork-dev/Galaxy" class="navItem">
                 <AiOutlineGithub fill="var(--text-inverse)" />
             </a>
