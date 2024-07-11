@@ -7,7 +7,7 @@ function Head({defaultTitle}) {
     const [localIcon, setLocalIcon] = useLocalIcon();
 
     var title = localTitle ? localTitle : (defaultTitle ? defaultTitle + " | Midnight" : "Midnight")
-    var icon = localIcon ? localIcon : "/logo.png"
+    var icon = localIcon ? localIcon : "/assets/logo.svg"
 
     var [ localTheme, setLocalTheme ] = useLocalTheme();
 
