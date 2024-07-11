@@ -17,7 +17,7 @@ function Nav() {
             <A href="/" class="navItem">
                 <AiFillHome fill="var(--text-inverse)" />
             </A>
-            <a href="https://github.com/cognetwork-dev/Galaxy" class="navItem">
+            <a href="https://github.com/Hyperpixel-Foundation/Midnight" class="navItem">
                 <AiOutlineGithub fill="var(--text-inverse)" />
             </a>
             <div onclick={gamesGo} class="navItem">
