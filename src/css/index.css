@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('./noto-sans.css');
 @import url('./ubuntu-mono.css');
 @import url('./nosifer.css');
 @import url('./themes.css');
