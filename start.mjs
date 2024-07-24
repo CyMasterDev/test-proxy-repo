@@ -35,6 +35,10 @@ const fail = (req, res, err) => {
 httpServer.on("request", async (req, res) => {
     try {
         if (bareServer.shouldRoute(req)) {
+            // Add headers to mimic a browser request
+            req.headers['user-agent'] = req.headers['user-agent'] || 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36';
+            req.headers['accept-language'] = req.headers['accept-language'] || 'en-US,en;q=0.9';
+
             bareServer.routeRequest(req, res);
         } else {
             serve(req, res, (err) => {
