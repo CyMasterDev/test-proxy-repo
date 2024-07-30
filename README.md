@@ -34,4 +34,4 @@ Run `npm run build` to build app for production to the `build` folder.
 Run `npm run dev` to run the app in development mode.
 
 ### Deploy
-Click a button at the top of this page and follow the directions for an easy way to host this if you reall want to. (not reccomended)
+Click a button at the top of this page and follow the directions for an easy way to host this if you really want to. (not reccommended)
