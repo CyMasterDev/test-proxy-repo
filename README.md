@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Test proxy</h1>
-<h3>A web proxy currently in testing with support for many popular sites.</h3>
+<h3>Just a simple test thingy</h3>
 </div>
 
 <p align="center">
@@ -12,16 +12,6 @@
 
 ## About
 My first proxy-related project, just getting to know how proxy sites work.
-
-## Note:
-I do not reccommend Koyeb as a production hosting service because its server IP range/network has been blacklisted by youtube, when trying to host a proxy on koyeb be mindful that videos will not be able to be watched, instead a message saying "sign in to confirm you're not a bot" will appear, this issue so far has proven unsolvable.
-
-## Features
-- Stunning design
-- Support many popular sites
-- Mobile support
-- about:blank cloaking
-- Clickoff cloaking
 
 ## Setup
 ### Run
